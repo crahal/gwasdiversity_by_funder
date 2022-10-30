@@ -1,6 +1,7 @@
 import csv
 import json
 import time
+
 class DataLoader:
     def getAncestriesList(self):
         data = []
