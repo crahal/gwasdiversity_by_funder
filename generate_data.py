@@ -733,7 +733,10 @@ def make_bubbleplot_df(data_path):
             replace('\s', '-', regex=True).str. \
             replace('(', '-', regex=False).str. \
             replace(')', '-', regex=False).str.lower()
-
+        paper_grants = pd.read_csv(os.path.join(data_path, 'pubmed',
+                                            'paper_grants.tsv'),
+                                   sep="\t", usecols=['PUBMEDID', 'Acronym', 'Agency', 'GrantID'])
+        merged = pd.merge(merged, paper_grants, how='left', left_on='PUBMEDID', right_on="PUBMEDID")
         merged.to_csv(os.path.join(data_path, 'toplot', 'bubble_df.csv'))
         diversity_logger.info('Build of the bubble datasets: Complete')
     except Exception as e:
@@ -981,37 +984,45 @@ def generate_funder_data(data_path):
             if 'GrantList' in paper['MedlineCitation']['Article']:
                 for grant in paper['MedlineCitation']['Article']['GrantList']:
                     if 'GrantID' in grant:
-                        paper_grants.at[PMID, 'GrantID'] = paper_grants.at[PMID, 'GrantID'] + str(grant['GrantID']) + ';'
+                        if  str(grant['GrantID']) not in str(paper_grants.loc[PMID, 'GrantID']):
+                            paper_grants.at[PMID, 'GrantID'] = paper_grants.at[PMID, 'GrantID'] + str(grant['GrantID']) + ';'
                         if str(grant['GrantID']) in grantids.index:
                             grantids.at[str(grant['GrantID']), 'Counter'] += 1
                         else:
                             grantids.at[str(grant['GrantID']), 'Counter'] = 1
                     else:
-                        paper_grants.at[PMID, 'GrantID'] = paper_grants.at[PMID, 'GrantID'] + 'Missing ID;'
+                        if 'Missing ID' not in str(paper_grants.loc[PMID, 'GrantID']):
+                            paper_grants.at[PMID, 'GrantID'] = paper_grants.at[PMID, 'GrantID'] + 'Missing ID;'
                     if 'Acronym' in grant:
-                        paper_grants.at[PMID, 'Acronym'] = paper_grants.at[PMID, 'Acronym'] + str(grant['Acronym']) + ';'
+                        if str(grant['Acronym']) not in str(paper_grants.loc[PMID, 'Acronym']):
+                            paper_grants.at[PMID, 'Acronym'] = paper_grants.at[PMID, 'Acronym'] + str(grant['Acronym']) + ';'
                         if str(grant['Acronym']) in acronyms.index:
                             acronyms.at[str(grant['Acronym']), 'Counter'] += 1
                         else:
                             acronyms.at[str(grant['Acronym']), 'Counter'] = 1
                     else:
-                        paper_grants.at[PMID, 'Acronym'] = paper_grants.at[PMID, 'Acronym'] + 'Missing Acronym;'
+                        if 'Missing Acronym' not in str(paper_grants.loc[PMID, 'Acronym']):
+                            paper_grants.at[PMID, 'Acronym'] = paper_grants.at[PMID, 'Acronym'] + 'Missing Acronym;'
                     if 'Agency' in grant:
-                        paper_grants.at[PMID, 'Agency'] = paper_grants.at[PMID, 'Agency'] + str(grant['Agency']) + ';'
+                        if str(grant['Agency']) not in str(paper_grants.loc[PMID, 'Agency']):
+                            paper_grants.at[PMID, 'Agency'] = paper_grants.at[PMID, 'Agency'] + str(grant['Agency']) + ';'
                         if str(grant['Agency']) in agencies.index:
                             agencies.at[str(grant['Agency']), 'Counter'] += 1
                         else:
                             agencies.at[str(grant['Agency']), 'Counter'] = 1
                     else:
-                        paper_grants.at[PMID, 'Agency'] = paper_grants.at[PMID, 'Agency'] + 'Missing Agency;'
+                        if 'Missing Agency' not in str(paper_grants.loc[PMID, 'Agency']):
+                            paper_grants.at[PMID, 'Agency'] = paper_grants.at[PMID, 'Agency'] + 'Missing Agency;'
                     if 'Country' in grant:
-                        paper_grants.at[PMID, 'Country'] = paper_grants.at[PMID, 'Country'] + str(grant['Country']) + ';'
+                        if str(grant['Country']) not in str(paper_grants.loc[PMID, 'Country']):
+                            paper_grants.at[PMID, 'Country'] = paper_grants.at[PMID, 'Country'] + str(grant['Country']) + ';'
                         if str(grant['Country']) in countries.index:
                             countries.at[str(grant['Country']), 'Counter'] += 1
                         else:
                             countries.at[str(grant['Country']), 'Counter'] = 1
                     else:
-                        paper_grants.at[PMID, 'Country'] = paper_grants.at[PMID, 'Country'] + 'Missing Country;'
+                        if 'Missing Country' not in str(paper_grants.loc[PMID, 'Country']):
+                            paper_grants.at[PMID, 'Country'] = paper_grants.at[PMID, 'Country'] + 'Missing Country;'
             else:
                 paper_grants.at[PMID, 'Country'] = 'Missing Country;'
                 paper_grants.at[PMID, 'Agency'] = 'Missing Agency;'
@@ -1067,10 +1078,11 @@ if __name__ == "__main__":
     final_year = determine_year(datetime.date.today())
     diversity_logger.info('final year is being set to: ' + str(final_year))
     try:
-        download_cat(data_path, ebi_download)
-        clean_gwas_cat(data_path)
-        generate_funder_data(data_path)
+#        download_cat(data_path, ebi_download)
+#        clean_gwas_cat(data_path)
+#        generate_funder_data(data_path)
         make_bubbleplot_df(data_path)
+        stop
         make_doughnut_df(data_path)
         tsinput = pd.read_csv(os.path.join(data_path, 'catalog', 'synthetic',
                                            'Cat_Anc_wBroader.tsv'),  sep='\t')

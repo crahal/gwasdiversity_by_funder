@@ -1,111 +1,493 @@
 Agencies	Counter
-NCI NIH HHS	6907
-NIGMS NIH HHS	924
-NCRR NIH HHS	1890
-NCATS NIH HHS	1208
-NIDA NIH HHS	1242
-Intramural NIH HHS	839
-NIDDK NIH HHS	3999
-Foundation for the National Institutes of Health	10
-U.S. Department of Veterans Affairs	3
+NHLBI NIH HHS	18390
+Wellcome Trust	2727
+NIDDK NIH HHS	4011
+NIAMS NIH HHS	1325
+NIGMS NIH HHS	929
+NIA NIH HHS	5838
+CIHR	108
+NIMH NIH HHS	3583
+Medical Research Council	6565
+NIEHS NIH HHS	608
+Diabetes UK	8
+European Research Council	73
+NHGRI NIH HHS	2640
+NICHD NIH HHS	757
+NEI NIH HHS	689
+Biotechnology and Biological Sciences Research Council	182
+Department of Health	311
+NINDS NIH HHS	1058
+British Heart Foundation	627
+NCATS NIH HHS	1215
+NCI NIH HHS	6901
+NIDA NIH HHS	1244
+NIH HHS	400
+CCR NIH HHS	63
+WHI NIH HHS	598
+Cancer Research UK	891
+Ministry of Health and Welfare	3
+Japan Society for the Promotion of Science (JSPS)	4
+Japan Agency for Medical Research and Development (AMED)	17
+Ministry of Health & Welfare of the Republic of Korea	1
+Fondo de Investigación Sanitaria	4
+ISCIII RETICS programs	2
+Ramón y Cajal Program	1
+ISCIII and ESF	1
+RETICS Program	1
+ISCIII and ERDF	1
+Instituto de Salud Carlos III	8
+European Social Fund	1
+NIAID NIH HHS	1406
+Peter Boris Chair in Addictions Research	2
+NCCIH NIH HHS	1
+NIAAA NIH HHS	1148
+U.S. Department of Health &amp; Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)	3
+Product and Process Development Grant from the Sanquin Blood Supply Foundation	1
+NIMHD NIH HHS	252
+NIBIB NIH HHS	139
+NIDCR NIH HHS	488
+National Health and Medical Research Council	8
+NHMRC Fellowship Scheme	3
+Chief Scientist Office	303
+Consejo Nacional de Ciencia y Tecnología	1
+Instituto Nacional de Medicina Genomica	1
+National Institutes of Health/National Cancer Institute	1
+U.S. Department of Health &amp; Human Services | NIH | National Human Genome Research Institute (NHGRI)	9
+U.S. Department of Health &amp; Human Services | NIH | National Center for Advancing Translational Sciences (NCATS)	1
+Wellcome Trust Career Development Fellowship	1
+Swiss National Science Foundation	2
+Agence Nationale de la Recherche	3
+NLM NIH HHS	133
+Agencia Nacional de Promoción Científica y Tecnológica	1
+Johns Hopkins Center for Inherited Disease Research	1
+NCBDD CDC HHS	31
+RRD VA	11
+NCCDPHP CDC HHS	70
+NCRR NIH HHS	1893
+ARRA NIH HHS	10
+Hrvatska Zaklada za Znanost	4
+Ministarstvo Obrazovanja, Znanosti i Sporta	1
+Sixth Framework Programme	1
+Seventh Framework Programme	2
+World Health Organization	8
+Arthritis Research UK	113
+Versus Arthritis	59
+Ministry of Health, Labour, and Welfare Science Research Grant	2
+U.S. Department of Health &amp; Human Services | NIH | National Institute of Dental and Craniofacial Research (NIDCR)	3
+Japan Agency for Medical Research and Development	18
+Ministry of Health, Labour and Welfare	1
+Grant-in-Aid for Cancer Research	1
+National Cancer Research and Development Fund	1
+Japan Society for the Promotion of Science	12
+Ministry of Education, Culture, Sports, Science and Technology	3
+National Institutes of Health	13
+Translation research Institute at UAMS	1
+Intramural NIH HHS	838
+Austrian Science Fund FWF	12
+MRF	21
 CSRD VA	40
 BLRD VA	74
-NIDCR NIH HHS	488
-NHGRI NIH HHS	2639
-NIAID NIH HHS	1406
-NHLBI NIH HHS	18353
-NIMHD NIH HHS	252
-NIA NIH HHS	5826
+German Science Foundation	1
+DFG	2
+University of Lübeck	1
+Conseil Régional, Île-de-France	1
+MESA	14
+GENEVA	3
+GF	8
+SFI-DfE	1
+Northern Ireland Kidney Research Fund	1
+National Institute of Allergy and Infectious Diseases	3
+Irish Research Council and Punchestown Kidney Research Fund	1
+U.S. Department of Health &amp; Human Services | NIH | National Cancer Institute (NCI)	1
+Okasan Kato Culture Promotion Foundation	1
+Hitachi Global Foundation	1
+Core Research for Evolutional Science and Technology	1
+Swedish Research Council	5
+Almirall	1
+NIDCD NIH HHS	49
+National Research Foundation of Korea	19
+Korea Institute of Science and Technology Information	1
+Agency for Science, Technology and Research (A*STAR)	1
+European Union	1
+Joshua L. and Lisa Z. Greer Endowed Chair in IBD Genetics	2
+Korea Health Industry Development Institute	1
+PHS HHS	552
+NINR NIH HHS	44
+Wake Forest School of Medicine	1
+AHRQ HHS	13
+National Center for Advancing Translational Studies	1
+National Centre for the Replacement, Refinement and Reduction of Animals in Research	3
 FIC NIH HHS	127
-Wellcome Trust	2709
-Office of Extramural Research, National Institutes of Health (OER)	2
-British Heart Foundation	619
-Medical Research Council	6532
-ILSI Health and Environmental Sciences Institute	1
-the Research Program of the Korea Food Research Institute (KFRI), funded by the Ministry of Science and ICT.	1
-NIH HHS	400
-U.S. Department of Health &amp; Human Services | NIH | National Institute on Aging (U.S. National Institute on Aging)	4
-NICHD NIH HHS	755
-RCUK | Medical Research Council (MRC)	9
-NIMH NIH HHS	3560
-CIHR	108
-NLM NIH HHS	133
-NINDS NIH HHS	1055
+Ministry of Health and Welfare of Taiwan	1
+Higher Education Sprout Project by the Ministry of Education in Taiwan	1
+Japan Osteoporosis Foundation	1
+Korea Centers for Disease Control and Prevention	1
+Council of Scientific and Industrial Research (CSIR)	8
+Terveyden Tutkimuksen Toimikunta	2
+Luonnontieteiden ja Tekniikan Tutkimuksen Toimikunta	1
+NordForsk	1
+Research and Development Corporation of Newfoundland and Labrador	1
+Action on Hearing Loss	1
+Worldwide Cancer Research	7
+Parkinson's UK	51
+ CIHR	139
+The Dunhill Medical Trust	13
+Blood Cancer UK	6
+Autism Speaks	4
+Howard Hughes Medical Institute	60
+Canadian Institutes of Health Research	30
+Multiple Sclerosis Society	6
+NCHHSTP CDC HHS	2
+Telethon	5
+Breast Cancer Now	17
+ORD VA	7
+Alzheimer's Society	10
+CSR NIH HHS	3
+American Heart Association-American Stroke Association	15
+OAPP OASH HHS	1
+Prostate Cancer UK	3
+HSRD VA	6
+RNID	2
+MRC	4
 Yonsei University College of Medicine	1
 Korean Government	1
-Chief Scientist Office	302
-European Research Council	73
-Arthritis Research UK	113
-Department of Health	308
-Cancer Research UK	889
-NEI NIH HHS	689
-NIAAA NIH HHS	1148
-Howard Hughes Medical Institute	60
-British Heart Foundation (BHF)	4
-NIDCD NIH HHS	49
+Office of Extramural Research, National Institutes of Health (OER)	2
+National Cancer Center	2
+Office of Research and Development, Department of Veterans Affairs	1
+"EC | EC Seventh Framework Programm | FP7 Ideas: European Research Council (FP7-IDEAS-ERC - Specific Programme: ""Ideas"" Implementing the Seventh Framework Programme of the European Community for Research, Technological Development and Demonstration Activities (2007 to 2013))"	1
+the Research Program of the Korea Food Research Institute (KFRI), funded by the Ministry of Science and ICT.	1
+CLC NIH HHS	12
+MEXT | JST | Core Research for Evolutional Science and Technology (CREST)	2
+MEXT | Japan Science and Technology Agency (JST)	1
+MEXT | Japan Society for the Promotion of Science (JSPS)	3
+National Heart, Lung, and Blood Institute (US)	11
+National Institutes of Health (US)	4
+National Human Genome Research Institute (US)	1
+National Institute for Health Research	2
+National Eye Research Centre	1
+Wellcome Trust (Wellcome)	12
+Department of Health | National Health and Medical Research Council (NHMRC)	4
+DH | NIHR | Health Services Research Programme (NIHR Health Services Research Programme)	2
+Department of Education and Training | Australian Research Council (ARC)	1
+Motor Neurone Disease Association	36
+American Cancer Society	1
+ODCDC CDC HHS	1
 Bill and Melinda Gates Foundation	1
 Conselho Nacional de Desenvolvimento Científico e Tecnológico	1
 Coordenação de Aperfeiçoamento de Pessoal de Nível Superior	1
 Mobilidade Santander project	1
 Henry Ford Research Foundation	1
-ODCDC CDC HHS	1
-Action on Hearing Loss	1
-National Institute of Neurological Disorders and Stroke	3
-National Natural Science Foundation of China	52
-CAMS Initiative Fund for Medical Sciences	3
-Beijing Nova Program Interdisciplinary Collaborative Project	1
-PUMC Youth Fund & the Fundamental Research Funds for the Central Universities	1
-The Central Level Public Interest Program for Scientific Research Institute	1
-National Human Genome Research Institute	3
-Beijing Nova Program	1
-the 2016 PUMCH Science Fund for Junior Faculty	1
-the Distinguished Youth Foundation of Peking Union Medical College Hospital	1
-Beijing Natural Science Foundation	1
-NIAMS NIH HHS	1323
-NIEHS NIH HHS	607
-Consejo Nacional de Ciencia y Tecnología	1
-Instituto Nacional de Medicina Genomica	1
-National Institutes of Health/National Cancer Institute	1
-WHI NIH HHS	598
-MRF	21
-Motor Neurone Disease Association	36
-National Institutes of Health (US)	4
-American Cancer Society	1
-Swedish Research Council	5
-Almirall	1
-Wellcome Trust (Wellcome)	12
-Department of Health | National Health and Medical Research Council (NHMRC)	4
-DH | NIHR | Health Services Research Programme (NIHR Health Services Research Programme)	2
-Department of Education and Training | Australian Research Council (ARC)	1
-RRD VA	10
-Deanship of Scientific Research, Imam Abdulrahman Bin Faisal University	4
+Generalitat Valenciana	9
+Fundació La Marató de TV3	4
+Spanish Ministry of Health (Instituto de Salud Carlos III) and the Ministerio de Economía y Competitividad-Fondo Europeo de Desarrollo Regional (FEDER)	22
+University Jaume I	7
+The Rei Jaume I Award for Medical Research 2018	1
 Autism Speaks (Autism Speaks, Inc.)	1
-Human Animal Bond Research Institute	1
+Eunice Kennedy Shriver National Institute of Child Health and Human Development	10
+RCUK | Medical Research Council (MRC)	9
+ILSI Health and Environmental Sciences Institute	1
+Ministry of Science and Technology of the People's Republic of China	3
+National Natural Science Foundation of China	52
+China Association for Science and Technology	1
+Foundation for the National Institutes of Health	10
+U.S. Department of Veterans Affairs	3
+International Science and Technology Cooperation Programme	1
+Shenzhen Municipal of Government of China	2
+European Regional Development Fund	3
+Interreg	1
+Medical Research Council  [UK]	2
+Medical Research Council [UK]	1
+EPA	8
+Rei Jaume I Award for Medical Research 2018	1
+US Department of Agriculture, Agriculture Research Service	2
+U.S. Department of Defense	2
+National Heart, Lung, and Blood Institutes	1
+Fundación Científica Asociación Española Contra el Cáncer	1
+Hrvatska Zaklada za Znanost (Croatian Science Foundation)	2
+Ministarstvo Znanosti, Obrazovanja i Sporta (Ministry of Science, Education and Sports)	1
+Ministry of Science, Information and Communication Technologies and Future Planning of the Korea Government	1
 National Health and Medical Research Council (AU)	2
 The Lundbeck Foundation, Denmark	2
-Versus Arthritis	58
+Human Animal Bond Research Institute	1
 Université de Montréal Beaulieu-Saucier Chair in Pharmacogenomics	1
 Montreal Heart Institute Foundation	1
-Max Planck Society	1
-Netherlands Organization for Scientific Research	1
-French National Research Agency	1
-American Heart Association-American Stroke Association	14
+U.S. Department of Health & Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)	6
+U.S. Department of Health & Human Services | NIH | National Institute on Minority Health and Health Disparities (NIMHD)	1
 Bundesministerium für Bildung und Forschung (Federal Ministry of Education and Research)	13
 EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)	5
 Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung (Swiss National Science Foundation)	1
 Deutsche Forschungsgemeinschaft (German Research Foundation)	17
-Parkinson's UK	51
-Consejería de Salud y Familias, Junta de Andalucía	1
-Instituto de Salud Carlos III	8
-Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica	1
-ARRA NIH HHS	10
-Red Iberoamericana de medicina genómica en enfermedad de Chagas	1
-CYTED	1
-Ministerio de Ciencia y Tecnología de Córdoba	1
-Secretaría de Ciencia y Tecnología	1
-CNPq	1
-FAPEMIG	1
-Agence Nationale de Recherche	1
+Department of Health [UK]	1
+Medical Research Council, UK and GlaxoSmithKline	1
+NIHR Biomedical Research Centre for Mental Health at the South London and Maudsley NHS Foundation Trust and Institute of Psychiatry, King’s College London	1
+European Commission Framework 6 grant, EC Contract Ref	1
+Barts Charity and International Bipolar Foundation	1
+Canadian Institutes for Health Research	2
+Canadian Institutes for Health Research 	2
+Brain and Behaviour Research Foundation (NARSAD Young Investigator Awards	1
+Ministry of Science and Technology, Taiwan	1
+Tri-Service General Hospital	2
+American Diabetes Association	1
+Generalitat de Catalunya (Government of Catalonia)	1
+EC | Directorate-General for Employment, Social Affairs and Inclusion | European Social Fund (Fondo Social Europeo)	1
+Ministry of Economy and Competitiveness | Instituto de Salud Carlos III (Institute of Health Carlos III)	1
+National Heart, Lung, and Blood Institute	2
+National Institute of Environmental Health Sciences	1
+EC | Seventh Framework Programme (EC Seventh Framework Programme)	1
+CDC HHS	15
+Natural Science Foundation of Shandong Province	2
+Key research and development program of Shandong Province	1
+Innovation Project of Shandong Academy of Medical Sciences	1
+Shandong Provincial Advanced Taishan Scholar Construction Project	1
+The National Institute of Neurological Disorders and Stroke (NINDS)	1
+Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation	1
+Buddhist Tzu Chi Medical Foundation Academic Advancement	1
+National Science Council	2
+Natinal taiwan univeristy hospital	1
+UNC Clinical and Translational Science Award	1
+Technology Development Program funded by the Ministry of SMEs and Startups(MSS, Korea).	1
+NIOSH CDC HHS	5
+ZonMw	1
+Free State of Saxony	3
+Rhineland-Palatinate	1
+Deutsche Akademie der Naturforscher Leopoldina - Nationale Akademie der Wissenschaften	1
+Bundesministerium für Bildung und Forschung	9
+Deutsche Forschungsgemeinschaft	4
+Helmut-Ecker-Foundation	1
+the Ministry of Science, ICT, and Future Planning	5
+Excellent Youth Foundation of Jiangsu	1
+Top-notch Academic Programs Project of Jiangsu Higher Education Institutions	1
+Ministry of Health and Welfare (Ministry of Health, Welfare and Family Affairs)	2
+Government of Jiangsu Province	2
+ACL HHS	6
+Medical Research Council (UK), European Commission Framework 6 project EUROSPAN (Contract No.LSHG-CT-2006-018947), the Republic of Croatia Ministry of Science, Education and Sports research grant (216-1080315-0302), the Croatian Science Foundation (grant 8875), CEKOM (Ministry of Economy, Entrepreneurship and Crafts) and the Research Centre of Excellence in Personalized Medicine (Ministry of Science and Education)	1
+The Deanship of Scientific Research	1
+Imam Abdulrahman Bin Faisal University	1
+National Key Research and Development Program	2
+Natural Science Foundation of Henan Province	1
+Shanghai Municipal Commission of Science and Technology Research Project	1
+the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT	1
+Seoul National University Bundang Hospital (SNUBH) Research Fund	1
+Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education	1
+U.S. Department of Health &amp; Human Services | NIH | National Institute on Aging (U.S. National Institute on Aging)	4
+Max Planck Society	1
+Netherlands Organization for Scientific Research	1
+French National Research Agency	1
+Deanship of Scientific Research, Imam Abdulrahman Bin Faisal University	4
+Korean Health Technology R&amp;D Project	1
+British Heart Foundation (BHF)	4
+Doris Duke Charitable Foundation	6
+Intramural VA	3
+OCPHP CDC HHS	1
+Ministry of Science and Technology, Taipei, Taiwan	2
+Bristol-Myers Squibb Co.	1
+Academia Sinica, Taipei, Taiwan	1
+Intramural CDC HHS	1
+National Research Foundation of Korea (KR)	1
+Department of Defense	2
+National Institutes of Drug Abuse	1
+National Institutes of Mental Health	1
+Norges Forskningsråd	4
+NHGRI Gene Environment Association Studies (GENEVA)	3
+National Heart, Lung, and Blood Institute (NHLBI)	11
+National Center for Advancing Translational Sciences, CTSI	1
+NHLBI Candidate-Gene Association Resource	1
+NIAAA Division of Intramural Clinical and Biological Research	1
+US Department of Veterans Affairs VISN1 Career Development Award	1
+US Veterans Affairs Connecticut and Veterans Affairs Philadelphia Mental Illness Research, Education and Clinical Centers	2
+Lundbeck Foundation	1
+James R Cerhan is supported by NIH grants	2
+Nicola Camp reports support from	1
+Partial support for all datasets within the UPDB is provided by the Huntsman Cancer Institute (HCI) and the HCI Comprehensive Cancer Center Support grant	1
+David Conti is supported by the following NIH	4
+Strategic Research Program in Epidemiology at Karolinska Institute and National Institutes of Health	1
+NIH/NHLBI	1
+Spanish Ministry of Economy and Competitiveness-Carlos III Institute of Health cofunded by FEDER funds/European Regional Develpment Fund (ERDF)-a way to build Europe	1
+National Heart, Lung, and Blood Institute, National Institutes of Health, U.S. Department of Health and Human Services through contracts	1
+Chief Scientist Office [UK]	3
+Canadian Institutes of Health Research 	1
+Department for International Development	1
+Shanghai Municipal Science and Technology Major Project	1
+Vetenskapsrådet (Swedish Research Council)	3
+Cancer Research UK (CRUK)	1
+National Institute of Neurological Disorders and Stroke	3
+National Institute of Mental Health	1
+National Institute on Aging	1
+Ministère de la Recherche et des Technologies (FR)	1
+David Judah Foundation	1
+Biological Sciences Division at the University of Chicago	1
+Ministerio de Educación y Ciencia	1
+National Human Genome Research Institute	3
+ZonMw (Netherlands Organisation for Health Research and Development)	6
+U.S. Department of Health &amp; Human Services | U.S. Public Health Service (United States Public Health Service)	1
+CSP VA	2
+National Institute on Deafness and Other Communication Disorders	2
+Australian Research Council	2
+Vetenskapsrådet	4
+Hjärt-Lungfonden	1
+Forskningsrådet om Hälsa, Arbetsliv och Välfärd	1
+ENGAGE Consortium	1
+VA Medical Research Service	1
+China Scholarship Council	2
+National Center on Minority Health and Health Disparities	1
+Juvenile Diabetes Research Foundation	1
+DERC Clinical Investigation Core	1
+Federal Institute for Drugs and Medical Devices in Bonn	1
+Tohoku Medical Megabank Project (Special Account for reconstruction from the Great East Japan Earthquake)	1
+JSPS KAKENHI	1
+Ministry of Science, ICT and Future Planning	2
+Supreme Prosecutors' Office	1
+the research program of Korea Institute of Oriental Medicine	1
+National Center for Global Health and Medicine	3
+Sigrid Juselius Foundation	1
+Academy of Finland	4
+Global Research Awards for Nicotine Dependence (GRAND)	1
+ENGAGE-European Network for Genetic and Genomic Epidemiology	2
+Biomedicum Helsinki Foundation, and Doctoral Program in Biomedicine, University of Helsinki (J.H.)	2
+Real Colegio Complutense at Harvard University	1
+U.S. Department of Health & Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
+U.S. Department of Health & Human Services | NIH | National Institute of Diabetes and Digestive and Kidney Diseases (National Institute of Diabetes & Digestive & Kidney Diseases)	2
+U.S. Department of Health & Human Services | NIH | National Institute on Aging (U.S. National Institute on Aging)	1
+National Research Foundation of Korea (NRF)	5
+National Institute of Child Health and Human Development	1
+National Rehabilitation Center (UAE)	1
+Key Research and Development and Promotion Project of Henan province	1
+Key Scientific Research Projects of Colleges and Universities in Henan Province	1
+Italian Ministry of Health	2
+Università degli Studi di Brescia	1
+Integrated Applied Genetics Training -AppGENEdu	1
+EEA Grants	1
+FP7 Ideas: European Research Council	2
+Foundation Volksbond Rotterdam	1
+Brain &amp; Behavior Research Foundation	1
+US National Institutes of Health, National Institute on Drug Abuse	1
+NWO	1
+GlaxoSmithKline (GB)	1
+the National Institutes of Health	6
+the Key projects of international cooperation among governments in scientific and technological innovation	1
+the Natural Science Basic Research Plan in Shaanxi Province of China	1
+the National Natural Scientific Foundation of China	2
+Chang Gung Memorial Hospital, Linkou	1
+National Health Research Institutes and Central Government S & T grant, Taiwan	1
+Hartstichting (Dutch Heart Foundation)	1
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek (Netherlands Organisation for Scientific Research)	2
+U.S. Department of Veterans Affairs (Department of Veterans Affairs)	5
+Netherlands CardioVascular Research Initiative of the Netherlands Heart Foundation	1
+U.S. Department of Defense (United States Department of Defense)	2
+U.S. Department of Health &amp; Human Services | NIH | National Institute of Mental Health (NIMH)	10
+U.S. Department of Health &amp; Human Services | NIH | Center for Scientific Review (NIH Center for Scientific Review)	2
+GlaxoSmithKline	2
+National Natural Science Foundation of China (National Science Foundation of China)	8
+Lundbeckfonden	3
+Det Frie Forskningsråd	1
+Simons Foundation	2
+National Institute of Mental Health (US)	1
+Inner Mongolia Autonomous Region medical health science & technology research program	1
+Department for Health [UK]	1
+Maudsley Charity	2
+Klarman Family Foundation	1
+UK Medical Research Council	6
+South London and Maudsley NHS Foundation Trust	1
+National Key Research and Development Program China	2
+Leverhulme Trust	1
+National Basic Research Program of China	1
+Netherlands Organisation for Scientific Research	4
+Australian NHMRC Fellowship	1
+Science and Technology Commission of Shanghai Municipality	1
+National Key R&amp;D Program of China	1
+National Science Foundation of China	1
+Netherlands Organization of Scientific Research	2
+Universidad de Antioquia	2
+Netherlands Genomics Initiative	1
+Horizon 2020 - Research and Innovation Framework Programme	1
+Strategic Priority Reserach Program Chinese Academy of Sciences	1
+Shanghai Municipal Science and Technology Commission	1
+Chinese Academy of Sciences	2
+Levelhulm Trust	1
+BBSRC	1
+European Union Horizon 2020 Research and Innovation Programme	1
+RCUK | MRC | Medical Research Foundation	1
+U.S. Department of Health &amp; Human Services | NIH | National Center for Research Resources (NCRR)	1
+European Foundation for the Study of Diabetes	1
+Horizon 2020	1
+Novo Nordisk Fonden	1
+Federal Ministry of Education and Research of the Federal Republic of Germany	1
+EU framework program	1
+CIHR Foundation Grant	1
+Netherlands Organization for Health Research and Development	1
+Oslo University Hospital, Ullevaal	1
+NSF grant	1
+South East Norway Health Authority	1
+Grant Agency of the Czech Republic	1
+Natural Science Foundation of Jiangsu province of China	1
+NIDA	1
+NIMH	1
+NCI	1
+NHGRI	1
+NHLBI	1
+Council of Scientific and Industrial Research	2
+Department of Biotechnology (DBT)	1
+Department of Science & Technology	1
+NCCK	1
+Universität des Saarlandes (Saarland University)	1
+Novo Nordisk Fonden (Novo Nordisk Foundation)	1
+CAMS Initiative Fund for Medical Sciences	3
+Beijing Nova Program Interdisciplinary Collaborative Project	1
+PUMC Youth Fund & the Fundamental Research Funds for the Central Universities	1
+The Central Level Public Interest Program for Scientific Research Institute	1
+Beijing Nova Program	1
+the 2016 PUMCH Science Fund for Junior Faculty	1
+the Distinguished Youth Foundation of Peking Union Medical College Hospital	1
+Beijing Natural Science Foundation	1
+VA Merit Review Award Clinical Science R&D	1
+EFSD/CDS/Lilly Programme award (2013)	1
+Austrian Science Fund (FWF)	1
+Polish Ministry of Sciences and Education	1
+Polish Ministry of Science	1
+Popoulous collection founded by European Regional Development Fund	1
+Comisión Nacional de Investigación Científica y Tecnológica	1
+Edinburgh Clinical Academic Track	1
+Svenska Forskningsrådet Formas	2
+Estonian Research Competency Council	1
+Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung	1
+SystemsX.ch	1
+United States	2
+RACP Research Entry Scholarship	1
+Cancer Therapeutics CRC	1
+Kids Cancer Alliance	1
+Cancer Institute NSW	1
+ORFDO NIH HHS	26
+Soonchunhyang University	1
+Ministry of Health and Care Services | Helse Sør-Øst RHF (Southern and Eastern Norway Regional Health Authority)	2
+Norges Forskningsråd (Research Council of Norway)	1
+U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)	5
+National Natural Science Foundation of China (CN)	1
+Ministry of Health & Welfare	2
+Post-Genome Multi-Ministerial Project	2
+Longfonds	1
+NIH National Institute of Neurological Diseases and Stroke	1
+National Institutes of Neurological Diseases and Stroke	1
+Muscular Dystrophy Association	1
+Charcot-Marie-Tooth Association	1
+National Institute for Health Research University College London Hospitals Biomedical Research Centre	1
+Departament d'Universitats, Recerca i Societat de la Informació	3
+instituto nacional de bioinformatica	1
+Agencia Estatal de Investigación	3
+Gouvernement du Canada | Canadian Institutes of Health Research (Instituts de Recherche en Santé du Canada)	2
+Al Jalila Foundation	1
+Edith Cowan University	1
+Khalifa University	1
+Korea Ministry of Environment	1
+Sundhed og Sygdom, Det Frie Forskningsråd	1
+Rigshospitalet	1
+Copenhagen University Hospital	1
+Tobacco-Related Disease Research Program (TRDRP)	2
+BrightFocus Foundation	1
+Fondo Trieste	1
+Regione FVG	1
+Natural Science Foundation of Tianjin City (Natural Science Foundation of Tianjin)	1
+British Heart Foundation (GB)	2
+Medical Research Council (GB)	1
 European Regional Development Fund from the European Union	1
 State Research Agency	1
 MICIU/ULL	1
@@ -116,215 +498,47 @@ American Asthma Foundation	1
 Harry Wm. and Diana V. Hind	1
 Tobacco-Related Disease Research Program	1
 Sandler Foundation	1
-National Research Foundation of Korea (NRF)	5
-Universidad de Antioquia	2
-UK Medical Research Council	6
-HHS | NIH | National Heart, Lung, and Blood Institute (NHLBI)	4
-HHS | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
-Fondazione Tizzi	1
-Fondazione Arpa	1
-Associazione Italiana Ricerca Cancro	1
-Fondazione Italiana Malattie Pancreas - Ministero Salute	1
-Fondo de Investigaciones Sanitarias	1
-AIRC	1
-Korean Health Technology R&amp;D Project	1
-Ministry of Science and Technology, Taiwan	1
-Tri-Service General Hospital	2
-European Regional Development Fund	3
+Qatar University	2
+GCC-2017-011	1
 Freistaat Sachsen	1
 Helmholtz Zentrum München	1
-Bundesministerium für Bildung und Forschung	9
-NCCDPHP CDC HHS	70
-HSRD VA	6
-Intramural VA	3
-NIBIB NIH HHS	139
-U.S. Department of Health &amp; Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)	3
-U.S. Department of Health &amp; Human Services | NIH | National Institute of Diabetes and Digestive and Kidney Diseases (National Institute of Diabetes &amp; Digestive &amp; Kidney Diseases)	1
-U.S. Department of Health &amp; Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
-Fondo Nacional de Desarrollo Científico y Tecnológico	4
-National Research Foundation of Korea	19
-EC | Sixth Framework Programme (EC Sixth Framework Programme)	1
-PHS HHS	552
-Diabetes UK	8
-Biotechnology and Biological Sciences Research Council	181
-Austrian Science Fund FWF	12
-The Dunhill Medical Trust	13
- CIHR	139
-Autism Speaks	4
-CCR NIH HHS	63
-Breast Cancer Now	17
-Blood Cancer UK	6
-Telethon	5
-Multiple Sclerosis Society	6
-NCHHSTP CDC HHS	2
-NCBDD CDC HHS	31
-NINR NIH HHS	43
-ORD VA	7
-Alzheimer's Society	10
-Canadian Institutes of Health Research	30
-CSR NIH HHS	3
-Worldwide Cancer Research	7
-AHRQ HHS	13
-OAPP OASH HHS	1
-OCPHP CDC HHS	1
-RNID	2
-MRC	4
-Doris Duke Charitable Foundation	6
-ZonMw	1
-Government of Jiangsu Province	2
-National Natural Science Foundation of China (National Science Foundation of China)	8
-Natural Science Foundation of Tianjin City (Natural Science Foundation of Tianjin)	1
-Medical Research Council (UK), European Commission Framework 6 project EUROSPAN (Contract No.LSHG-CT-2006-018947), the Republic of Croatia Ministry of Science, Education and Sports research grant (216-1080315-0302), the Croatian Science Foundation (grant 8875), CEKOM (Ministry of Economy, Entrepreneurship and Crafts) and the Research Centre of Excellence in Personalized Medicine (Ministry of Science and Education)	1
-Hrvatska Zaklada za Znanost	4
-NIOSH CDC HHS	5
-Product and Process Development Grant from the Sanquin Blood Supply Foundation	1
-the Ministry of Science, ICT, and Future Planning	5
-UNC Clinical and Translational Science Award	1
-Korea Ministry of Environment	1
-Special Program of the National Natural Science Foundation of China (NSFC) on tracing, pathogenesis, prevention, and treatment for COVID-19	1
-European Commission	2
-Canada Research Chair in the Environment and Genetics of Respiratory Diseases and Allergies	1
-UK Medical Research Council and Wellcome	1
-Foundation for the National Institutes of Health (Foundation for the National Institutes of Health, Inc.)	2
+Consejería de Salud y Familias, Junta de Andalucía	1
+Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica	1
 the national natural science foundation of china	1
 key research and development plan of hainan province	1
-World Health Organization	8
-National Key Research &amp; Development Program of China	2
-Department of Science and Technology of Sichuan Province	1
-Japan Society for the Promotion of Science	12
-Estonian Science Foundation	1
-Brain and Behavior Research Foundation (Brain &amp; Behavior Research Foundation)	1
-University of Chicago Comprehensive Cancer Center Women's Board	1
-St. Jude Children's Research Hospital	1
-American Lebanese Syrian Associated Charities	1
-UK Medical Research Council Integrative Epidemiology Unit	1
-Swedish Cancer Society	1
-Radium Hemmets Research Funds	1
-Stockholm County Council	1
-Märit and Hans Rausing´s Initiative Against Breast Cancer	1
+Australian National Health and Medical Research Council	1
+American Heart Association	1
+Indonesia Endowment Fund for Education (LPDP)	1
 Breast Cancer Research Foundation	1
 Research Program of the Korea Food Research Institute (KFRI), funded by the Ministry of Science and ICT	1
+Thailand Research Fund (TRF)	1
 Grant-in-Aid for Scientific Research	4
 Grant-in-aid for Policy Research for Intractable Diseases	4
-Indonesia Endowment Fund for Education (LPDP)	1
-Ministry of Food and Drug Safety	1
+Brain and Behavior Research Foundation (Brain &amp; Behavior Research Foundation)	1
+US National Institutes of Health	1
 Brain Research UK	1
 Health education England	1
 Hjärnfonden	1
 Karolinska Institutet Research Funds	1
-Vetenskapsrådet	4
 Wellcome Trust and strategic award	2
 Wellcome Trust Institutional Strategic Support Fund	1
 University of London	1
 Brain Foundation	1
-American Heart Association	1
-Agence Nationale de la Recherche	3
-Ministère de la Recherche et des Technologies (FR)	1
-Vetenskapsrådet (Swedish Research Council)	3
-Cancer Research UK (CRUK)	1
-Chief Scientist Office [UK]	3
-James R Cerhan is supported by NIH grants	2
-Nicola Camp reports support from	1
-Partial support for all datasets within the UPDB is provided by the Huntsman Cancer Institute (HCI) and the HCI Comprehensive Cancer Center Support grant	1
-David Conti is supported by the following NIH	4
-Strategic Research Program in Epidemiology at Karolinska Institute and National Institutes of Health	1
-NIH/NHLBI	1
-Spanish Ministry of Economy and Competitiveness-Carlos III Institute of Health cofunded by FEDER funds/European Regional Develpment Fund (ERDF)-a way to build Europe	1
-National Heart, Lung, and Blood Institute, National Institutes of Health, U.S. Department of Health and Human Services through contracts	1
-National Institutes of Health	13
-Shanghai Municipal Science and Technology Major Project	1
-David Judah Foundation	1
-Biological Sciences Division at the University of Chicago	1
-NHGRI Gene Environment Association Studies (GENEVA)	3
-National Heart, Lung, and Blood Institute (NHLBI)	11
-National Center for Advancing Translational Sciences, CTSI	1
-NHLBI Candidate-Gene Association Resource	1
-Canadian Institutes of Health Research 	1
-US Department of Veterans Affairs VISN1 Career Development Award	1
-US Veterans Affairs Connecticut and Veterans Affairs Philadelphia Mental Illness Research, Education and Clinical Centers	2
-Lundbeck Foundation	1
-Longfonds	1
-Ministry of Health & Welfare	2
-CDC HHS	15
-RACP Research Entry Scholarship	1
-Cancer Therapeutics CRC	1
-Kids Cancer Alliance	1
-Cancer Institute NSW	1
-National Natural Science Foundation of China (CN)	1
-Departament d'Universitats, Recerca i Societat de la Informació	3
-instituto nacional de bioinformatica	1
-Agencia Estatal de Investigación	3
-Al Jalila Foundation	1
-Edith Cowan University	1
-Khalifa University	1
-NIH National Institute of Neurological Diseases and Stroke	1
-National Institutes of Neurological Diseases and Stroke	1
-Muscular Dystrophy Association	1
-Charcot-Marie-Tooth Association	1
-National Institute for Health Research University College London Hospitals Biomedical Research Centre	1
-Hrvatska Zaklada za Znanost (Croatian Science Foundation)	2
-Ministarstvo Znanosti, Obrazovanja i Sporta (Ministry of Science, Education and Sports)	1
-VA Merit Review Award Clinical Science R&D	1
-GlaxoSmithKline (GB)	1
-Fundación Científica Asociación Española Contra el Cáncer	1
-Edinburgh Clinical Academic Track	1
-Svenska Forskningsrådet Formas	2
-Estonian Research Competency Council	1
-Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung	1
-SystemsX.ch	1
-Medical Research Council  [UK]	2
-Council of Scientific and Industrial Research	2
-Department of Biotechnology (DBT)	1
-Department of Science & Technology	1
-MEXT | Japan Society for the Promotion of Science (JSPS)	3
-the National Institutes of Health	6
-the Key projects of international cooperation among governments in scientific and technological innovation	1
-the Natural Science Basic Research Plan in Shaanxi Province of China	1
-the National Natural Scientific Foundation of China	2
-Ministry of Science, Information and Communication Technologies and Future Planning of the Korea Government	1
-Comisión Nacional de Investigación Científica y Tecnológica	1
-United States	2
-U.S. Department of Health &amp; Human Services | NIH | National Institute of Mental Health (NIMH)	10
-Simons Foundation	2
-NCCK	1
-Post-Genome Multi-Ministerial Project	2
-CSP VA	2
-Ministry of Health and Care Services | Helse Sør-Øst RHF (Southern and Eastern Norway Regional Health Authority)	2
-Norges Forskningsråd (Research Council of Norway)	1
-U.S. Department of Health &amp; Human Services | National Institutes of Health (NIH)	5
-Austrian Science Fund (FWF)	1
-Polish Ministry of Sciences and Education	1
-Polish Ministry of Science	1
-Popoulous collection founded by European Regional Development Fund	1
-Universität des Saarlandes (Saarland University)	1
-Technology Development Program funded by the Ministry of SMEs and Startups(MSS, Korea).	1
-Novo Nordisk Fonden (Novo Nordisk Foundation)	1
-Soonchunhyang University	1
-ORFDO NIH HHS	26
-CLC NIH HHS	12
-Gouvernement du Canada | Canadian Institutes of Health Research (Instituts de Recherche en Santé du Canada)	2
-EFSD/CDS/Lilly Programme award (2013)	1
-Sundhed og Sygdom, Det Frie Forskningsråd	1
-Rigshospitalet	1
-Copenhagen University Hospital	1
-BrightFocus Foundation	1
-Japan Agency for Medical Research and Development (AMED)	17
-Ministry of Health and Welfare (Ministry of Health, Welfare and Family Affairs)	2
-Excellent Youth Foundation of Jiangsu	1
-Top-notch Academic Programs Project of Jiangsu Higher Education Institutions	1
-ACL HHS	6
-Tobacco-Related Disease Research Program (TRDRP)	2
-GlaxoSmithKline	2
-National Research Foundation of Korea (KR)	1
-Department of Defense	2
-National Institutes of Drug Abuse	1
-National Institutes of Mental Health	1
-Intramural CDC HHS	1
-Ministry of Science and Technology, Taipei, Taiwan	2
-Bristol-Myers Squibb Co.	1
-Academia Sinica, Taipei, Taiwan	1
-Spanish Ministry of Science and Innovation	1
-Health Strategic Action (ISCIII and European Regional Development Fund)	1
+University of Chicago Comprehensive Cancer Center Women's Board	1
+St. Jude Children's Research Hospital	1
+American Lebanese Syrian Associated Charities	1
+National Key Research &amp; Development Program of China	2
+Department of Science and Technology of Sichuan Province	1
+Fondo Nacional de Desarrollo Científico y Tecnológico	4
+Academia Sinica	1
+Ministry of Science and Technology, Taiwan (Ministry of Science and Technology of Taiwan)	1
+Red Iberoamericana de medicina genómica en enfermedad de Chagas	1
+CYTED	1
+Ministerio de Ciencia y Tecnología de Córdoba	1
+Secretaría de Ciencia y Tecnología	1
+CNPq	1
+FAPEMIG	1
+Agence Nationale de Recherche	1
 State Key Lab of Reproductive Medicine of Nanjing Medical University	1
 Priority Academic Program Development of Jiangsu Higher Education Institutions	1
 Natural Science Foundation of Jiangsu Province	2
@@ -334,6 +548,17 @@ Jiangsu Provincial Key Medical Discipline	1
 Graduate Student Scientific Research Innovation Projects in Jiangsu Province	1
 Changzhou Sci&Tech Program	1
 Young Talent Development Plan of Changzhou Health Commission	1
+Ministry of Food and Drug Safety	1
+Fondo integrativo per la ricerca (Fir)	1
+"Autonomous Region of Sardinia (""Legge Regionale 7 agosto 2007, n. 7 - call 2017"")"	1
+Sardinian Regional Government	1
+U.S. Department of Health &amp; Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)	1
+National Blood Foundation/American Association of Blood Banks	1
+NRSA Joint Program in Transfusion Medicine	1
+Ministry of Science and Technology	1
+Universitair Medisch Centrum Groningen	1
+Spanish Ministry of Science and Innovation	1
+Health Strategic Action (ISCIII and European Regional Development Fund)	1
 German Research Council	9
 Alpe d’Huzes and the Dutch Cancer Society	3
 ORIP NIH HHS	1
@@ -353,293 +578,67 @@ UK Medical Research Council Integrative Epidemiology	1
 European Union Seventh Framework Programme	1
  Xarxa de Bancs de Tumors de Catalunya sponsored by Pla Director d’Oncología de Catalunya (XBTC), Plataforma Biobancos	1
 Austrian Research Funding Agency (FFG)	1
-Thailand Research Fund (TRF)	1
-Japan Agency for Medical Research and Development	18
-Universitair Medisch Centrum Groningen	1
-Eunice Kennedy Shriver National Institute of Child Health and Human Development	10
-British Heart Foundation (GB)	2
-Medical Research Council (GB)	1
-Australian National Health and Medical Research Council	1
-Fondo integrativo per la ricerca (Fir)	1
-"Autonomous Region of Sardinia (""Legge Regionale 7 agosto 2007, n. 7 - call 2017"")"	1
-Sardinian Regional Government	1
-U.S. Department of Health &amp; Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)	1
-ZonMw (Netherlands Organisation for Health Research and Development)	6
-Qatar University	2
-Ministry of Science and Technology	1
 Innovative Medicines Initiative Joint Undertaking	1
 H2020 European Research Council	1
-Deutsche Forschungsgemeinschaft	4
-EPA	8
-China Medical University, Taichung, Taiwan	1
-Chang Gung Memorial Hospital, Keelung, Taiwan	1
-National Blood Foundation/American Association of Blood Banks	1
-NRSA Joint Program in Transfusion Medicine	1
-Ministry of Science and Technology of Taiwan	1
-US National Institutes of Health	1
-National Science Foundation	1
-RTI International	1
-Fondation Leducq	1
-Croatian Science Foundation	1
-the Interreg 2 Seas programme	1
-Dept of Health	1
-The Stroke Association	1
-Dowager Countess Eleanor Peel Trust	1
 NHMRC	1
 Centre of Research Excellence for the Study of Naevi	1
-Hjärt-Lungfonden	1
-Forskningsrådet om Hälsa, Arbetsliv och Välfärd	1
-Seventh Framework Programme	2
-ENGAGE Consortium	1
-U.S. Department of Health & Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)	6
-U.S. Department of Health & Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
-U.S. Department of Health & Human Services | NIH | National Institute of Diabetes and Digestive and Kidney Diseases (National Institute of Diabetes & Digestive & Kidney Diseases)	2
-U.S. Department of Health & Human Services | NIH | National Institute on Aging (U.S. National Institute on Aging)	1
-National Institute of Child Health and Human Development	1
-Spanish Ministry of Health (Instituto de Salud Carlos III) and the Ministerio de Economía y Competitividad-Fondo Europeo de Desarrollo Regional (FEDER)	22
-University Jaume I	7
-Rei Jaume I Award for Medical Research 2018	1
-Fundació La Marató de TV3	4
-Generalitat Valenciana	9
-US Department of Agriculture, Agriculture Research Service	2
-European Foundation for the Study of Diabetes	1
-Horizon 2020	1
-Novo Nordisk Fonden	1
-National Rehabilitation Center (UAE)	1
-Chang Gung Memorial Hospital, Linkou	1
-National Health Research Institutes and Central Government S & T grant, Taiwan	1
-Department for Health [UK]	1
-Medical Research Council [UK]	1
-Lundbeckfonden	3
-Det Frie Forskningsråd	1
-National Institute of Mental Health (US)	1
-Maudsley Charity	2
-Klarman Family Foundation	1
-National Institute for Health Research	2
-South London and Maudsley NHS Foundation Trust	1
-Inner Mongolia Autonomous Region medical health science & technology research program	1
-Hartstichting (Dutch Heart Foundation)	1
-Nederlandse Organisatie voor Wetenschappelijk Onderzoek (Netherlands Organisation for Scientific Research)	2
-U.S. Department of Veterans Affairs (Department of Veterans Affairs)	5
-Netherlands CardioVascular Research Initiative of the Netherlands Heart Foundation	1
-National Health and Medical Research Council	8
-National Key Research and Development Program China	2
-China Scholarship Council	2
-Leverhulme Trust	1
-National Basic Research Program of China	1
-Netherlands Organisation for Scientific Research	4
-Australian NHMRC Fellowship	1
-Science and Technology Commission of Shanghai Municipality	1
-National Key R&amp;D Program of China	1
-National Science Foundation of China	1
-Ministry of Science and Technology of the People's Republic of China	3
-Netherlands Organization of Scientific Research	2
-Netherlands Genomics Initiative	1
-Horizon 2020 - Research and Innovation Framework Programme	1
-Strategic Priority Reserach Program Chinese Academy of Sciences	1
-Shanghai Municipal Science and Technology Commission	1
-Chinese Academy of Sciences	2
-Levelhulm Trust	1
-BBSRC	1
-European Union Horizon 2020 Research and Innovation Programme	1
-National Institute of Mental Health	1
-National Institute on Aging	1
-Italian Ministry of Health	2
-Università degli Studi di Brescia	1
-RCUK | MRC | Medical Research Foundation	1
-U.S. Department of Health &amp; Human Services | NIH | National Center for Research Resources (NCRR)	1
-U.S. Department of Defense (United States Department of Defense)	2
-U.S. Department of Health &amp; Human Services | NIH | Center for Scientific Review (NIH Center for Scientific Review)	2
-Federal Ministry of Education and Research of the Federal Republic of Germany	1
-EU framework program	1
-CIHR Foundation Grant	1
-Netherlands Organization for Health Research and Development	1
-Oslo University Hospital, Ullevaal	1
-NSF grant	1
-South East Norway Health Authority	1
-Key Research and Development and Promotion Project of Henan province	1
-Key Scientific Research Projects of Colleges and Universities in Henan Province	1
-U.S. Department of Defense	2
-Department for International Development	1
-National Centre for the Replacement, Refinement and Reduction of Animals in Research	3
-National Heart, Lung, and Blood Institutes	1
-NIDA	1
-NIMH	1
-NCI	1
-NHGRI	1
-NHLBI	1
-Natural Science Foundation of Jiangsu province of China	1
-Foundation Volksbond Rotterdam	1
-Brain &amp; Behavior Research Foundation	1
-US National Institutes of Health, National Institute on Drug Abuse	1
-NWO	1
-Integrated Applied Genetics Training -AppGENEdu	1
-EEA Grants	1
-FP7 Ideas: European Research Council	1
-Grant Agency of the Czech Republic	1
-Swiss National Science Foundation	2
-Fondo de Investigación Sanitaria	4
-ISCIII RETICS programs	2
-Ramón y Cajal Program	1
-ISCIII and ESF	1
-RETICS Program	1
-ISCIII and ERDF	1
-European Social Fund	1
-Ministry of Health & Welfare of the Republic of Korea	1
-National Center for Advancing Translational Studies	1
-Japan Society for the Promotion of Science (JSPS)	4
-Fondo Trieste	1
-Regione FVG	1
-Agencia Nacional de Promoción Científica y Tecnológica	1
-Johns Hopkins Center for Inherited Disease Research	1
-Free State of Saxony	3
-Rhineland-Palatinate	1
-Deutsche Akademie der Naturforscher Leopoldina - Nationale Akademie der Wissenschaften	1
-Helmut-Ecker-Foundation	1
-Natural Science Foundation of Shandong Province	2
-Key research and development program of Shandong Province	1
-Innovation Project of Shandong Academy of Medical Sciences	1
-Shandong Provincial Advanced Taishan Scholar Construction Project	1
-U.S. Department of Health &amp; Human Services | NIH | National Institute of Dental and Craniofacial Research (NIDCR)	3
-Ministarstvo Obrazovanja, Znanosti i Sporta	1
-Sixth Framework Programme	1
-Ministry of Health, Labour and Welfare	1
-Grant-in-Aid for Cancer Research	1
-National Cancer Research and Development Fund	1
-Ministry of Education, Culture, Sports, Science and Technology	3
-National Heart, Lung, and Blood Institute	2
-National Institute of Environmental Health Sciences	1
-The National Institute of Neurological Disorders and Stroke (NINDS)	1
-Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation	1
-Buddhist Tzu Chi Medical Foundation Academic Advancement	1
-National Science Council	2
-Natinal taiwan univeristy hospital	1
-U.S. Department of Health &amp; Human Services | NIH | National Cancer Institute (NCI)	1
-Peter Boris Chair in Addictions Research	2
-NCCIH NIH HHS	1
-EC | Seventh Framework Programme (EC Seventh Framework Programme)	1
-Ministry of Health and Welfare of Taiwan	1
-Higher Education Sprout Project by the Ministry of Education in Taiwan	1
-Japan Osteoporosis Foundation	1
-Korea Centers for Disease Control and Prevention	1
-Generalitat de Catalunya (Government of Catalonia)	1
-EC | Directorate-General for Employment, Social Affairs and Inclusion | European Social Fund (Fondo Social Europeo)	1
-Ministry of Economy and Competitiveness | Instituto de Salud Carlos III (Institute of Health Carlos III)	1
-SFI-DfE	1
-Northern Ireland Kidney Research Fund	1
-National Institute of Allergy and Infectious Diseases	3
-Irish Research Council and Punchestown Kidney Research Fund	1
-Translation research Institute at UAMS	1
-Ministry of Health, Labour, and Welfare Science Research Grant	2
-Ministry of Health and Welfare	3
-Wake Forest School of Medicine	1
-Conseil Régional, Île-de-France	1
-MESA	14
-GENEVA	3
-GF	8
-Terveyden Tutkimuksen Toimikunta	2
-Luonnontieteiden ja Tekniikan Tutkimuksen Toimikunta	1
-NordForsk	1
-Council of Scientific and Industrial Research (CSIR)	8
-Korea Institute of Science and Technology Information	1
-Agency for Science, Technology and Research (A*STAR)	1
-European Union	1
-Joshua L. and Lisa Z. Greer Endowed Chair in IBD Genetics	2
-Korea Health Industry Development Institute	1
-U.S. Department of Health &amp; Human Services | NIH | National Human Genome Research Institute (NHGRI)	9
-U.S. Department of Health &amp; Human Services | NIH | National Center for Advancing Translational Sciences (NCATS)	1
-Okasan Kato Culture Promotion Foundation	1
-Hitachi Global Foundation	1
-Core Research for Evolutional Science and Technology	1
-Wellcome Trust Career Development Fellowship	1
-German Science Foundation	1
-DFG	2
-University of Lübeck	1
-Research and Development Corporation of Newfoundland and Labrador	1
-NHMRC Fellowship Scheme	3
-National Eye Research Centre	1
-The Rei Jaume I Award for Medical Research 2018	1
-MEXT | JST | Core Research for Evolutional Science and Technology (CREST)	2
-MEXT | Japan Science and Technology Agency (JST)	1
-"EC | EC Seventh Framework Programm | FP7 Ideas: European Research Council (FP7-IDEAS-ERC - Specific Programme: ""Ideas"" Implementing the Seventh Framework Programme of the European Community for Research, Technological Development and Demonstration Activities (2007 to 2013))"	1
-U.S. Department of Health & Human Services | NIH | National Institute on Minority Health and Health Disparities (NIMHD)	1
-GCC-2017-011	1
-Department of Health [UK]	1
-the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT	1
-Academia Sinica	1
-Ministry of Science and Technology, Taiwan (Ministry of Science and Technology of Taiwan)	1
-Medical Research Council, UK and GlaxoSmithKline	1
-NIHR Biomedical Research Centre for Mental Health at the South London and Maudsley NHS Foundation Trust and Institute of Psychiatry, King’s College London	1
-European Commission Framework 6 grant, EC Contract Ref	1
-Barts Charity and International Bipolar Foundation	1
-Canadian Institutes for Health Research	2
-Canadian Institutes for Health Research 	2
-Brain and Behaviour Research Foundation (NARSAD Young Investigator Awards	1
-National Key Research and Development Program	2
-Natural Science Foundation of Henan Province	1
-Shanghai Municipal Commission of Science and Technology Research Project	1
-The Deanship of Scientific Research	1
-Imam Abdulrahman Bin Faisal University	1
-Interreg	1
-International Science and Technology Cooperation Programme	1
-Shenzhen Municipal of Government of China	2
-China Association for Science and Technology	1
-Office of Research and Development, Department of Veterans Affairs	1
-National Cancer Center	2
-National Heart, Lung, and Blood Institute (US)	11
-National Human Genome Research Institute (US)	1
-American Diabetes Association	1
-Seoul National University Bundang Hospital (SNUBH) Research Fund	1
-Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education	1
-EU Joint Programme - Neurodegenerative Disease Research	1
-National Natural Science Foundation of China (NSFC)	1
+HHS | National Institutes of Health (NIH)	1
+HHS | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)	1
+HHS | NIH | National Institute of Mental Health (NIMH)	1
+Wellcome Trust (WT)	1
 National Heart, Lung, and Blood Institute T32 postdoctoral training grant	1
 British Heart Foundation Centre of Research Excellence Grant	1
 Health Collaboration Acceleration Fund from the Government of Quebec	1
 AstraZeneca	1
+EU Joint Programme - Neurodegenerative Disease Research	1
+Korea Food Research Institute	1
+Natural Science Foundation of Fujian Province	1
+Fujian Medical Innovation Fund	1
+Fondation Leducq	1
+Croatian Science Foundation	1
+Ministry of Science and Technology of Taiwan	1
+National Science Foundation	1
+RTI International	1
+Hallym University	1
+China Medical University, Taichung, Taiwan	1
+Chang Gung Memorial Hospital, Keelung, Taiwan	1
+EC | Sixth Framework Programme (EC Sixth Framework Programme)	1
+Swedish Cancer Society	1
+Radium Hemmets Research Funds	1
+Stockholm County Council	1
+Märit and Hans Rausing´s Initiative Against Breast Cancer	1
+UK Medical Research Council Integrative Epidemiology Unit	1
+Estonian Science Foundation	1
+Foundation for the National Institutes of Health (Foundation for the National Institutes of Health, Inc.)	2
+European Commission	2
+Canada Research Chair in the Environment and Genetics of Respiratory Diseases and Allergies	1
+UK Medical Research Council and Wellcome	1
+Special Program of the National Natural Science Foundation of China (NSFC) on tracing, pathogenesis, prevention, and treatment for COVID-19	1
+U.S. Department of Health &amp; Human Services | NIH | National Institute of Diabetes and Digestive and Kidney Diseases (National Institute of Diabetes &amp; Digestive &amp; Kidney Diseases)	1
+U.S. Department of Health &amp; Human Services | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
+HHS | NIH | National Heart, Lung, and Blood Institute (NHLBI)	4
+HHS | NIH | National Institute of Environmental Health Sciences (NIEHS)	1
+Fondazione Tizzi	1
+Fondazione Arpa	1
+Associazione Italiana Ricerca Cancro	1
+Fondazione Italiana Malattie Pancreas - Ministero Salute	1
+Fondo de Investigaciones Sanitarias	1
+AIRC	1
+Princess Máxima Center Foundation, Utrecht, the Netherlands	1
+NIH/NIA	1
+National Institutes of Health/National Institute on Aging	1
+Diputación Foral de Gipuzkoa	1
+Manatu Hauora | Health Research Council of New Zealand (HRC)	1
 Fondazione Italiana Sclerosi Multipla	5
 Ministero della Salute	1
 Università degli Studi del Piemonte Orientale	1
 HYPERGENES	1
 National Multiple Sclerosis Society	2
-HHS | National Institutes of Health (NIH)	1
-HHS | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)	1
-HHS | NIH | National Institute of Mental Health (NIMH)	1
-Wellcome Trust (WT)	1
-Princess Máxima Center Foundation, Utrecht, the Netherlands	1
-Korea Food Research Institute	1
-Jiangsu Higher Education Institutions	1
-Ministry of Science and Technology in Taiwan	1
-Taipei Veterans General Hospital	1
-Yen Tjing Ling Medical Foundation	1
-MOH | National Medical Research Council (NMRC)	3
-U.S. Department of Health & Human Services | NIH | National Institute on Drug Abuse (NIDA)	1
-Lundbeckfonden (Lundbeck Foundation)	3
-Prostate Cancer UK	3
-Real Colegio Complutense at Harvard University	1
-National Center for Global Health and Medicine	3
-Sigrid Juselius Foundation	1
-Academy of Finland	4
-Global Research Awards for Nicotine Dependence (GRAND)	1
-ENGAGE-European Network for Genetic and Genomic Epidemiology	2
-Biomedicum Helsinki Foundation, and Doctoral Program in Biomedicine, University of Helsinki (J.H.)	2
-U.S. Department of Health &amp; Human Services | U.S. Public Health Service (United States Public Health Service)	1
-Federal Institute for Drugs and Medical Devices in Bonn	1
-National Center on Minority Health and Health Disparities	1
-Juvenile Diabetes Research Foundation	1
-DERC Clinical Investigation Core	1
-Norges Forskningsråd	4
-Tohoku Medical Megabank Project (Special Account for reconstruction from the Great East Japan Earthquake)	1
-JSPS KAKENHI	1
-National Institute on Deafness and Other Communication Disorders	2
-Australian Research Council	2
-NIAAA Division of Intramural Clinical and Biological Research	1
-VA Medical Research Service	1
-Ministry of Science, ICT and Future Planning	2
-Supreme Prosecutors' Office	1
-the research program of Korea Institute of Oriental Medicine	1
-Ministerio de Educación y Ciencia	1
-Hallym University	1
+the Interreg 2 Seas programme	1
+Dept of Health	1
+The Stroke Association	1
+Dowager Countess Eleanor Peel Trust	1
+National Natural Science Foundation of China (NSFC)	1
 Ministry for Innovation and Technology	4
 Sixth Framework Program of the European Union	1
 Hungarian Scientific Research Fund	1
@@ -647,3 +646,14 @@ Thematic Excellence Programme	1
 National Research, Development and Innovation Office	1
 National Development Agency	2
 Hungarian Brain Research Program	2
+Ministry of Science and Technology in Taiwan	1
+Taipei Veterans General Hospital	1
+Yen Tjing Ling Medical Foundation	1
+MOH | National Medical Research Council (NMRC)	3
+The APC was funded by Researchers Supporting Project, King Saud University, Riyadh, Saudi Arabia.	1
+Orionin Tutkimussäätiö	1
+Sigrid Juséliuksen Säätiö	1
+Suomen Lääketieteen Säätiö	1
+Jiangsu Higher Education Institutions	1
+U.S. Department of Health & Human Services | NIH | National Institute on Drug Abuse (NIDA)	1
+Lundbeckfonden (Lundbeck Foundation)	3
