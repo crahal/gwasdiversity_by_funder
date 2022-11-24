@@ -266,7 +266,6 @@ def create_summarystats(data_path):
             json.dump(sumstats, outfile)
         diversity_logger.info('Build of the summary stats: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Build of the summary stats: Failed -- {e}')
     return sumstats
 
@@ -280,7 +279,7 @@ def make_heatmatrix(merged, stage, col_list, index_list, funder=None):
         merged = merged[merged['Agency'].notnull()]
         merged = merged[merged['Agency'].str.contains(funder, regex=False)]
     else:
-        print("What's going on here?")
+        diversity_logger.debug(f'Potential null funders in make_heatmatrix()')
     count_df = pd.DataFrame(columns=col_list)
     sum_df = pd.DataFrame(columns=col_list)
     merged = merged[merged['STAGE'] == stage]
@@ -465,7 +464,6 @@ def make_heatmap_dfs(data_path):
                                       'heatmap_count_replication.csv'))
         diversity_logger.info('Build of the heatmap dataset: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Build of the heatmap dataset: Failed -- {e}')
 
 
@@ -532,7 +530,6 @@ def make_choro_df(data_path):
         annual_df.to_csv(os.path.join(data_path, 'toplot', 'choro_df.csv'), index=False)
         diversity_logger.info('Build of the choropleth dataset: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Build of the choropleth dataset: Failed -- {e}')
 
 
@@ -878,7 +875,6 @@ def make_doughnut_df(data_path):
         doughnut_df.to_csv(os.path.join(data_path, 'toplot', 'doughnut_df.csv'), index=False)
         diversity_logger.info('Build of the doughnut datasets: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Build of the doughnut datasets: Failed -- {e}')
 
 
@@ -932,7 +928,6 @@ def make_bubbleplot_df(data_path):
         merged.to_csv(os.path.join(data_path, 'toplot', 'bubble_df.csv'), index=False)
         diversity_logger.info('Build of the bubble datasets: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Build of the bubble datasets: Failed -- {e}')
 
 
@@ -1036,7 +1031,6 @@ def make_clean_CoR(Cat_Anc, data_path):
         return Clean_CoR
         diversity_logger.info('Clean of the raw Country datasets: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Clean of the raw Country datasets: Failed -- {e}')
 
 def download_cat(data_path, ebi_download):
@@ -1160,7 +1154,7 @@ def generate_funder_data(data_path):
         cat_full_n = len(cat_full.drop_duplicates())
         merged = pd.concat([cat_stud, cat_anc, cat_full]).drop_duplicates()
         if (len(merged) > cat_stud_n) and (len(merged) > cat_anc_n) and (len(merged) > cat_full_n):
-            print('wuhoh, something in cat_anc or cat_full that isnt in stud')
+            diversity_logger.debug(f'Something in cat_anc/cat_full that isnt in cat_stud')
         id_list = merged['PUBMEDID'].astype(str).tolist()
         paper_grants = pd.DataFrame(index=id_list, columns=['Acronym', 'Agency', 'Country', 'GrantID'])
         paper_grants['Acronym'] = ''
@@ -1246,7 +1240,6 @@ def generate_funder_data(data_path):
         grantids.to_csv(os.path.join(pubmed_path, 'grantids.tsv'), sep='\t', index=False)
         diversity_logger.info('Generating the funding lookup tables: Complete')
     except Exception as e:
-        print(traceback.format_exc())
         diversity_logger.debug(f'Generating the funding lookup tables: Failed -- {e}')
 
 def check_paths(data_path):
@@ -1274,24 +1267,23 @@ if __name__ == "__main__":
     final_year = determine_year(datetime.date.today())
     diversity_logger.info('final year is being set to: ' + str(final_year))
     try:
-        download_cat(data_path, ebi_download)
-        clean_gwas_cat(data_path)
-        generate_funder_data(data_path)
-        make_bubbleplot_df(data_path)
-        make_doughnut_df(data_path)
-        tsinput = pd.read_csv(os.path.join(data_path, 'catalog', 'synthetic',
-                                           'Cat_Anc_wBroader.tsv'),  sep='\t')
-        make_timeseries_df(tsinput, data_path, 'ts1')
-        tsinput = tsinput[tsinput['Broader'] != 'In Part Not Recorded']
-        make_timeseries_df(tsinput, data_path, 'ts2')
-        make_choro_df(data_path)
-        make_heatmap_dfs(data_path)
-        make_parent_list(data_path)
-        # @TODO add a 'funder' item into the summarystats json
-        sumstats = create_summarystats(data_path)
-        #zip_for_download(os.path.join(data_path, 'toplot'),
-        #                 os.path.join(data_path, 'todownload'))
-        #json_converter(data_path)
+#        download_cat(data_path, ebi_download)
+#        clean_gwas_cat(data_path)
+#        generate_funder_data(data_path)
+#        make_bubbleplot_df(data_path)
+#        make_doughnut_df(data_path)
+#        tsinput = pd.read_csv(os.path.join(data_path, 'catalog', 'synthetic',
+#                                           'Cat_Anc_wBroader.tsv'),  sep='\t')
+#        make_timeseries_df(tsinput, data_path, 'ts1')
+#        tsinput = tsinput[tsinput['Broader'] != 'In Part Not Recorded']
+#        make_timeseries_df(tsinput, data_path, 'ts2')
+#        make_choro_df(data_path)
+#        make_heatmap_dfs(data_path)
+#        make_parent_list(data_path)
+#        sumstats = create_summarystats(data_path)
+#        zip_for_download(os.path.join(data_path, 'toplot'),
+#                         os.path.join(data_path, 'todownload'))
+        json_converter(data_path)
         diversity_logger.info('generate_data.py ran successfully!')
     except Exception as e:
         print(traceback.format_exc())
